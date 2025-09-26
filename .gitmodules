@@ -1,0 +1,3 @@
+[submodule "remote-PEB/external/systeminformer"]
+	path = remote-PEB/external/systeminformer
+	url = https://github.com/winsiderss/systeminformer
